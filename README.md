@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, i'm Lucas Albuquerque
 
-<!--
-**LucasEmmanoel06/LucasEmmanoel06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am currently studying Systems Analysis and Development at Faculdade Senac Recife. As a Fullstack Web Developer, I am passionate about creating solutions that provide the best possible user experience.
 
-Here are some ideas to get you started:
+## Technologies I've Used
+### Languages:
+![Languages](https://skillicons.dev/icons?i=html,css,js,python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks, Libraries & Runtimes:
+![Tools](https://skillicons.dev/icons?i=bootstrap,express,jquery,nextjs,tailwindcss,nodejs)
+
+### Tools & Others:
+![Tools](https://skillicons.dev/icons?i=git,github,postman,figma)
+
+## GitHub Stats
+
+![LucasEmmanoel06's Stats](https://github-readme-stats.vercel.app/api?username=LucasEmmanoel06&theme=gotham&show_icons=true&hide_border=true&count_private=true)![LucasEmmanoel06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEmmanoel06&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+## Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasemalbuquerque/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.albuquerque2k@gmail.com)
