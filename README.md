@@ -1,6 +1,6 @@
 # Hi there, i'm Lucas Albuquerque
 
-### I am currently studying Systems Analysis and Development at Faculdade Senac Recife. As a Fullstack Web Developer, I am passionate about creating solutions that provide the best possible user experience.
+### Graduated in Systems Analysis and Development at Faculdade Senac Recife. As a Fullstack Web Developer, I am passionate about creating solutions that provide the best possible user experience.
 
 ## Technologies I've Used
 ### Languages:
