@@ -1,4 +1,6 @@
-# Hi there, i'm Lucas Albuquerque
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=300&animation=fadeIn&text=Hello%20there&desc=-nl-I'm%20Lucas%20Albuquerque&fontSize=90&descSize=30&fontAlignY=40&descAlignY=50&theme=tokyonight" />
+</p>
 
 ### Graduated in Systems Analysis and Development at Faculdade Senac Recife. As a Fullstack Web Developer, I am passionate about creating solutions that provide the best possible user experience.
 
